@@ -1,7 +1,7 @@
 # INFO-F439 : METHODS IN BIOFORMATIC
 
-The aim of this project is to reimplement the methods of a scientific paper
-The paper is : \\
+The aim of this project is to reimplement the methods of a scientific paper\
+The paper is :\
 Pandey, M., Anoosha, P., Yesudhas, D. and Gromiha, M. M. (2022), ‘Identification of potential
 driver mutations in glioblastoma using machine learning’, Briefings in Bioinformatics 23(6).
 doi: 10.1093/bib/bbac451.
