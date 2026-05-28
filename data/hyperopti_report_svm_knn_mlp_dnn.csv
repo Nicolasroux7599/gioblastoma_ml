@@ -1,0 +1,13 @@
+Subclass,Model,Best_Params,AUC
+Alpha,SVM,"{'kernel': 'rbf', 'gamma': 'scale', 'C': 1}",0.6950634415783231
+Alpha,KNN,"{'metric': 'manhattan', 'n_neighbors': 21, 'weights': 'uniform'}",0.6889736800358792
+Alpha,MLP,"{'activation': 'tanh', 'alpha': np.float64(0.05678201970293124), 'hidden_layer_sizes': (100,), 'learning_rate': 'adaptive', 'solver': 'sgd'}",0.6642090758406923
+Alpha,DNN,"{'activation': 'relu', 'alpha': np.float64(0.00010994335574766199), 'hidden_layer_sizes': (512, 256), 'learning_rate_init': 0.0001, 'solver': 'adam'}",0.6917694246583928
+Beta,SVM,"{'kernel': 'rbf', 'gamma': 'scale', 'C': 1}",0.7051646457892804
+Beta,KNN,"{'metric': 'manhattan', 'n_neighbors': 23, 'weights': 'uniform'}",0.7000863068807593
+Beta,MLP,"{'activation': 'tanh', 'alpha': np.float64(0.05678201970293124), 'hidden_layer_sizes': (100,), 'learning_rate': 'adaptive', 'solver': 'sgd'}",0.6918892468950204
+Beta,DNN,"{'activation': 'relu', 'alpha': np.float64(0.00013066739238053285), 'hidden_layer_sizes': (512, 512), 'learning_rate_init': 0.001, 'solver': 'adam'}",0.7032819089771121
+Coil,SVM,"{'kernel': 'rbf', 'gamma': 'scale', 'C': 1}",0.6763731505740609
+Coil,KNN,"{'metric': 'manhattan', 'n_neighbors': 21, 'weights': 'uniform'}",0.6686868367713297
+Coil,MLP,"{'activation': 'relu', 'alpha': np.float64(0.002950706670790532), 'hidden_layer_sizes': (100,), 'learning_rate': 'adaptive', 'solver': 'adam'}",0.6352290149485029
+Coil,DNN,"{'activation': 'relu', 'alpha': np.float64(0.00010994335574766199), 'hidden_layer_sizes': (512, 256), 'learning_rate_init': 0.0001, 'solver': 'adam'}",0.6734893059917244
